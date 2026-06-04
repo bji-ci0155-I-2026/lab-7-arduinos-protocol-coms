@@ -210,6 +210,7 @@ graph LR
 
 ### Simulaciones
 * [Simulación UART (simul/uart.sim1)](simul/uart.sim1)
+* [Simulación I2C (simul/i2c.sim1)](simul/i2c.sim1)
 * [Simulación SPI (simul/spi.sim1)](simul/spi.sim1)
 
 ### Videos Demostrativos
